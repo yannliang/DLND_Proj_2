@@ -1,2 +1,4 @@
 # DLND_Proj_2
-Deep Learning NanoDegree
+Udacity DLND Project 2
+
+Image Classification
